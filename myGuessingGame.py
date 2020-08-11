@@ -2,7 +2,7 @@ import random
 #random.randint
 number = random.randint(1, 10)
 #Works in Python2
-player_name = raw_input("Hello, What's your name?")
+#player_name = raw_input("Hello, What's your name?")
 #works in Python3
 player_name = input("Hello, What's your name?")
 number_of_guesses = 0
