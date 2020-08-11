@@ -1,8 +1,10 @@
 import random
 #random.randint
 number = random.randint(1, 10)
-
-player_name = eval(input("Hello, What's your name?"))
+#Works in Python2
+player_name = raw_input("Hello, What's your name?")
+#works in Python3
+player_name = input("Hello, What's your name?")
 number_of_guesses = 0
 print('okay! '+ player_name+ ' I am Guessing a number between 1 and 10:')
 #while loop
