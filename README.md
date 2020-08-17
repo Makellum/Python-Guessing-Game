@@ -55,3 +55,5 @@
 ## ❤ **_Happy Coding_** ❤
 ![](/pythonHomework/images/TechBridgeLogo.png)
 
+<img src="https://github.com/Makellum/Python-Guessing-Game/blob/master/myGuessingGame.gif"><br>
+
